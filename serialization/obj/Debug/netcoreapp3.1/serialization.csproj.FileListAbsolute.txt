@@ -1,0 +1,11 @@
+C:\C#\serialization\serialization\obj\Debug\netcoreapp3.1\serialization.csprojAssemblyReference.cache
+C:\C#\serialization\serialization\obj\Debug\netcoreapp3.1\serialization.AssemblyInfoInputs.cache
+C:\C#\serialization\serialization\obj\Debug\netcoreapp3.1\serialization.AssemblyInfo.cs
+C:\C#\serialization\serialization\bin\Debug\netcoreapp3.1\serialization.exe
+C:\C#\serialization\serialization\bin\Debug\netcoreapp3.1\serialization.deps.json
+C:\C#\serialization\serialization\bin\Debug\netcoreapp3.1\serialization.runtimeconfig.json
+C:\C#\serialization\serialization\bin\Debug\netcoreapp3.1\serialization.runtimeconfig.dev.json
+C:\C#\serialization\serialization\bin\Debug\netcoreapp3.1\serialization.dll
+C:\C#\serialization\serialization\bin\Debug\netcoreapp3.1\serialization.pdb
+C:\C#\serialization\serialization\obj\Debug\netcoreapp3.1\serialization.dll
+C:\C#\serialization\serialization\obj\Debug\netcoreapp3.1\serialization.pdb
